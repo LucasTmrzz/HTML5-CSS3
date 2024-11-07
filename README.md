@@ -3,4 +3,4 @@
 
  Fazendo alterações no meu repositório do GitHub.
 
-<a href="https://lucastmrzz.github.io/HTML5-CSS3/Exercicios/Ex_002/002_index.html">Executar o Ex_001
+<a href="https://lucastmrzz.github.io/HTML5-CSS3/Exercicios/Ex_001/001_index.html">Executar o Ex_001
