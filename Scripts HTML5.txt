@@ -1,0 +1,21 @@
+Anotações HTML5 e CSS3:
+
+<h1> ... </h1> - Cria um titulo. Atalho rapido: h1
+<p> ... </p> - Cria um paragrafo. Atalho rapido: p
+<hr> - Cria uma linha de divisão na horizontal. Atalho rapido: hr
+<br> - Quebra um ponto de um paragrafo, pulando para próxima linha. Atalho rapido: br
+<strong> ... </strong> - Deixa em negrito o conteudo digitado dentro. Atalho rapido: strong
+<img src="..." alt="..."> - Comando usado para inserir uma imagem no site. Atalho rapido: img
+<ol> / <li> - Cria lista numeradas - Atalho rapido: ol / li
+<ul> / <li> - Cria lista não numeradas - Atalho rapido: ul / li
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = children
+height = altura
+width = largura
+border = borda do conteudo
+padding = espaçamento entre a borda e o conteudo
+margin = espaçamento fora da borda
+outline = traçado fora da borda, mas dentro da margin
